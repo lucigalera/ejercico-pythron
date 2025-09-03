@@ -1,1 +1,1 @@
-# ejercico-pythron
+# ejercicios-pythron
